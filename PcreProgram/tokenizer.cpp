@@ -1,9 +1,5 @@
 //
 //  tokenizer.cpp
-//  PcreProgram
-//
-//  Created by Richard Lorenzen on 5/9/17.
-//  Copyright © 2017 Richard Lorenzen. All rights reserved.
 //
 
 #include <stdio.h>
